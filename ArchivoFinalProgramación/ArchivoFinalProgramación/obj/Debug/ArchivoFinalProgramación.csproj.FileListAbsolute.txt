@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
